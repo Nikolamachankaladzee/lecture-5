@@ -1,0 +1,163 @@
+
+li {
+    list-style: none;
+}
+.line {
+    width: 2px;
+    height: 48px;
+    display: inline-block;
+    background-color: #5012d5;
+}
+ul {
+    display: flex;
+}
+
+
+
+ .list li {
+    display:inline-block;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    margin-right: 70px;
+    font-size: 26px;
+}
+.container {
+    display: flex; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    align-items: center;
+   }
+   .images {
+    max-width: 100%;
+    max-height: 100%;
+    width:447px;
+    height: 280px;
+   }
+.logo {
+    width: 223px;
+    height: 58px;
+    margin-right: 50px;
+    
+}
+a{
+    text-decoration: none;
+    font-family: FiraGO;
+}
+.main-colour{
+    color: #4E6FAE!important
+}
+.text {
+    display: block;
+    width: auto;
+    color: #4E6FAE;
+    size: 16px;
+}
+.date {
+  width: 50px;
+  height: 50px;
+  background-color: #5012D5;
+  font-size: 24px;
+  text-align: center;
+  color: #84FF81;
+}
+.month {
+    font-size: 24px;
+    color: #8D81FF;
+}
+.section-header {
+    font-size: 20px;
+    font-weight: bold;
+    color: #4E6FAE;
+    
+}
+.imagee {
+    margin-left: 150px;
+}
+
+
+h1 {
+	color: #4E6FAE;
+    
+}
+ iframe {
+    
+    width: 50%;
+    display: inline-block;
+}
+
+.containers {
+	width: 500px;
+	height: 190px;
+	background-color: #E7E7E7;
+	margin-top: 30px;
+	padding: 20px;
+	display: inline-block;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+.containers h3 {
+	font-size: 20px;
+	color: #3F4145;
+	margin-bottom: 20px;
+    
+}
+
+.containers p {
+	display: inline-block;
+	width: 350px;
+	vertical-align: middle;
+	font-size: 16px;
+	color: #7E8898;
+    margin-bottom:20px;
+}
+
+.containers img {
+	margin-right: px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.containers1 h3 {
+    display: inline-block;
+   vertical-align: middle;
+    font-size: medium;
+}
+.containers1 {
+    display: inline-block;
+    background-color: #E7E7E7;
+    width: 100%;
+    height: 450px;
+    color: #7E8898;
+}
+.containers1 p {
+    font-weight: 100;
+    font-size: medium;
+    vertical-align: middle;
+    
+}
+.containers1 iframe {
+    margin-left: 500px;
+    height: 360px;
+    display: inline-block;
+    float:none;
+   
+}
+.linee {
+    display: inline-block;
+}
+.line1 {
+    display: inline-block;
+    background-color: #5012d5;
+    width: 2px;
+    height: 20px;
+}
+
+    
+
+
+
+
+
+
